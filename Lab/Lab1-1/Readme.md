@@ -30,4 +30,5 @@ Answer: use for check condition to make sort complete
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
 Answer: faster because it not loop to check condition again
-        
+         
+		  02f04d59 
