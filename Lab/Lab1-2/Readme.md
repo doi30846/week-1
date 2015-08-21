@@ -5,10 +5,10 @@
 * Revise the code such that it can accept input from command line, put your commit number and answer question 1 below
 
 ## Revision, put your commit number here
-* Three functions:
-* Get input from command line:
+* Three functions:3d1bd9ea
+* Get input from command line:3d1bd9ea
 
 ## Questions
 1. What are the limitations of your new code?
 
-Answer:
+Answer: cannot process before reach how many number on start of program.
