@@ -7,8 +7,8 @@
 
 
 ## Revision, put your commit number here
-* Sort from larger to smaller:
-* Without flag:
+* Sort from larger to smaller: 9 8 5 4 4 3 2 2 1 1
+* Without flag: 5 4 8 9 2 2 4 3 1 1
 
 ## Questions
 1. How this code can sort number from smaller to larger
@@ -30,4 +30,4 @@ Answer: use for check condition to make sort complete
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
 Answer: faster because it not loop to check condition again
-        5 4 8 9 2 2 4 3 1 1
+        
